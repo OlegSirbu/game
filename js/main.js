@@ -114,3 +114,7 @@ var world = new World(plan, {"#": Wall, "o": BouncingCritter});
 console.log(world.toString());
 
 })();
+
+
+
+
